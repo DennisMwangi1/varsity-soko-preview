@@ -24,7 +24,7 @@ VarsitySoko is an e-commerce platform designed for university students to **buy 
 
 ### 🔹 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 
 ### 🔹 Register Page
 
