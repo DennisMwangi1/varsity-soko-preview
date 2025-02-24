@@ -63,6 +63,10 @@ A built-in **trusted delivery & payment system** will allow verified businesses 
 
 ![Seller Forms 2](screenshots/sellerForms2.png)
 
+### 🔹 Bulk Product Upload
+![Bulk Upload](screenshots/varsitysokobulkupload.png)
+![Bulk Upload 1](screenshots/varsitysokobulkupload1.png)
+![Bulk Upload 2](screenshots/varsitysokobulkupload2.png)
 ---
 
 
